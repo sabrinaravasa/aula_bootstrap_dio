@@ -1,0 +1,53 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    background-color: rgba(141, 141, 140, 0.158);
+    padding-left: 20px;
+}
+
+.nav-link{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.quemsomos{
+    background-color:rgba(247, 228, 194, 0.89);
+}
+
+.primeiraimg{
+    margin-top: 22px;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.texto{
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.parceiros{
+    background-color: rgba(250, 221, 170, 0.89);
+}
+
+.servicos{
+    background-color: rgba(250, 212, 147, 0.89);
+}
+
+.col-lg-4{
+    padding: 10px;
+}
+
+.col-lg-6{
+    padding: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: gray;
+}
